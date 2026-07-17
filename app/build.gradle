@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace = 'com.grinch.rivo4'
+    namespace = 'com.smartworldarafath.omnidailer'
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.grinch.rivo4"
+        applicationId = "com.smartworldarafath.omnidailer"
         minSdk = 29
         targetSdk = 35
         versionCode = 2026062402
