@@ -107,8 +107,6 @@ Licensed under the GNU GPL v3.0. See the LICENSE file for details.
 
 ---
 
-## ☕ Support / Buy Me a Coffee & Become a Sponsor
-
 <div align="center">
 
 <a href="SUPPORT.md" target="_blank">
