@@ -51,16 +51,7 @@ If you find **Omni Dailer** helpful and want to support ongoing development, mai
 
 <table>
   <tr>
-    <td align="center" width="20%" valign="top">
-      <h4>☕ Buy Me a Coffee</h4>
-      <a href="https://www.buymeacoffee.com/arafathrahman" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-arafathrahman-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" width="180" />
-      </a><br/><br/>
-      <a href="https://www.buymeacoffee.com/arafathrahman" target="_blank">
-        <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee Badge" />
-      </a><br/>
-      <sub>Cards / Apple Pay / Google Pay</sub>
-    </td>
+
     <td align="center" width="25%" valign="top">
       <h4>☕ SupportKori</h4>
       <a href="https://www.supportkori.com/arafathrahman" target="_blank">
